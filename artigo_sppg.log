@@ -1,0 +1,265 @@
+This is LuaTeX, Version 1.0.0 (MiKTeX 2.9.6100 64-bit)  (format=lualatex 2017.9.25)  25 SEP 2017 09:23
+ restricted system commands enabled.
+**artigo_sppg.tex
+(./artigo_sppg.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
+("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:/Program Files/MiKTeX 2.9/tex/latex/base/size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:/Program Files/MiKTeX 2.9/tex/latex/graphics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:/Program Files/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.cfg"))
+("C:/Program Files/MiKTeX 2.9/tex/generic/babel/babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+("C:/Program Files/MiKTeX 2.9/tex/generic/babel/luababel.def"
+\l@afrikaans=\language1
+\l@ancientgreek=\language2
+\l@arabic=\language3
+\l@armenian=\language4
+\l@assamese=\language5
+\l@basque=\language6
+\l@bengali=\language7
+\l@bokmal=\language8
+\l@bulgarian=\language9
+\l@catalan=\language10
+\l@classiclatin=\language11
+\l@coptic=\language12
+\l@croatian=\language13
+\l@czech=\language14
+\l@danish=\language15
+\l@dutch=\language16
+\l@esperanto=\language17
+\l@estonian=\language18
+\l@farsi=\language19
+\l@finnish=\language20
+\l@french=\language21
+\l@galician=\language22
+\l@georgian=\language23
+\l@german=\language24
+\l@german-x-2014-05-21=\language25
+\l@greek=\language26
+\l@gujarati=\language27
+\l@hindi=\language28
+\l@hungarian=\language29
+\l@icelandic=\language30
+\l@indonesian=\language31
+\l@interlingua=\language32
+\l@irish=\language33
+\l@italian=\language34
+\l@kannada=\language35
+\l@kurmanji=\language36
+\l@latin=\language37
+\l@latvian=\language38
+\l@lithuanian=\language39
+\l@malayalam=\language40
+\l@marathi=\language41
+\l@mongolian=\language42
+\l@mongolianlmc=\language43
+\l@monogreek=\language44
+\l@ngerman=\language45
+\l@ngerman-x-2014-05-21=\language46
+\l@nynorsk=\language47
+\l@oriya=\language48
+\l@panjabi=\language49
+\l@piedmontese=\language50
+\l@pinyin=\language51
+\l@polish=\language52
+\l@portuguese=\language53
+\l@romanian=\language54
+\l@romansh=\language55
+\l@russian=\language56
+\l@sanskrit=\language57
+\l@serbian=\language58
+\l@serbianc=\language59
+\l@slovak=\language60
+\l@slovenian=\language61
+\l@spanish=\language62
+\l@swedish=\language63
+\l@swissgerman=\language64
+\l@tamil=\language65
+\l@telugu=\language66
+\l@thai=\language67
+\l@turkish=\language68
+\l@turkmen=\language69
+\l@ukenglish=\language70
+\l@ukrainian=\language71
+\l@uppersorbian=\language72
+\l@usenglishmax=\language73
+\l@welsh=\language74
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:/Program Files/MiKTeX 2.9/tex/latex/arabi/bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of 
+babel
+)
+("C:/Program Files/MiKTeX 2.9/tex/latex/babel-portuges/portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:/Program Files/MiKTeX 2.9/tex/generic/babel/babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen111
+
+("C:/Program Files/MiKTeX 2.9/tex/generic/babel/luababel.def"))
+Package babel Info: Making " an active character on input line 145.
+
+("C:/Program Files/MiKTeX 2.9/tex/generic/hyph-utf8/loadhyph/loadhyph-pt.tex"
+UTF-8 Portuguese hyphenation patterns
+("C:/Program Files/MiKTeX 2.9/tex/generic/hyph-utf8/patterns/tex/hyph-pt.tex")))
+) ("C:/Program Files/MiKTeX 2.9/tex/latex/base/fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("C:/Program Files/MiKTeX 2.9/tex/latex/base/t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:/Program Files/MiKTeX 2.9/tex/latex/lipsum/lipsum.sty"
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count91
+)
+("C:/Program Files/MiKTeX 2.9/tex/latex/url/url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:/Program Files/MiKTeX 2.9/tex/latex/fontspec/fontspec.sty"
+("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/expl3.sty"
+Package: expl3 2017/09/18 L3 programming layer (loader) 
+
+("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/expl3-code.tex"
+Package: expl3 2017/09/18 L3 programming layer (code)
+\ucharcat@table=\catcodetable5
+\c_max_int=\count92
+\l_tmpa_int=\count93
+\l_tmpb_int=\count94
+\g_tmpa_int=\count95
+\g_tmpb_int=\count96
+\g__intarray_font_int=\count97
+\g__prg_map_int=\count98
+\c_log_iow=\count99
+\l_iow_line_count_int=\count100
+\l__iow_line_target_int=\count101
+\l__iow_one_indent_int=\count102
+\l__iow_indent_int=\count103
+\c_zero_dim=\dimen112
+\c_max_dim=\dimen113
+\l_tmpa_dim=\dimen114
+\l_tmpb_dim=\dimen115
+\g_tmpa_dim=\dimen116
+\g_tmpb_dim=\dimen117
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count104
+\c__fp_leading_shift_int=\count105
+\c__fp_middle_shift_int=\count106
+\c__fp_trailing_shift_int=\count107
+\c__fp_big_leading_shift_int=\count108
+\c__fp_big_middle_shift_int=\count109
+\c__fp_big_trailing_shift_int=\count110
+\c__fp_Bigg_leading_shift_int=\count111
+\c__fp_Bigg_middle_shift_int=\count112
+\c__fp_Bigg_trailing_shift_int=\count113
+\c__fp_rand_size_int=\count114
+\c__fp_rand_four_int=\count115
+\c__fp_rand_eight_int=\count116
+\l__sort_length_int=\count117
+\l__sort_min_int=\count118
+\l__sort_top_int=\count119
+\l__sort_max_int=\count120
+\l__sort_true_max_int=\count121
+\l__sort_block_int=\count122
+\l__sort_begin_int=\count123
+\l__sort_end_int=\count124
+\l__sort_A_int=\count125
+\l__sort_B_int=\count126
+\l__sort_C_int=\count127
+\l__tl_build_start_index_int=\count128
+\l__tl_build_index_int=\count129
+\l__tl_analysis_normal_int=\count130
+\l__tl_analysis_index_int=\count131
+\l__tl_analysis_nesting_int=\count132
+\l__tl_analysis_type_int=\count133
+\l__regex_internal_a_int=\count134
+\l__regex_internal_b_int=\count135
+\l__regex_internal_c_int=\count136
+\l__regex_balance_int=\count137
+\l__regex_group_level_int=\count138
+\l__regex_mode_int=\count139
+\c__regex_cs_in_class_mode_int=\count140
+\c__regex_cs_mode_int=\count141
+\l__regex_catcodes_int=\count142
+\l__regex_default_catcodes_int=\count143
+\c__regex_catcode_L_int=\count144
+\c__regex_catcode_O_int=\count145
+\c__regex_catcode_A_int=\count146
+\c__regex_all_catcodes_int=\count147
+\l__regex_show_lines_int=\count148
+\l__regex_min_state_int=\count149
+\l__regex_max_state_int=\count150
+\l__regex_left_state_int=\count151
+\l__regex_right_state_int=\count152
+\l__regex_capturing_group_int=\count153
+\l__regex_min_pos_int=\count154
+\l__regex_max_pos_int=\count155
+\l__regex_curr_pos_int=\count156
+\l__regex_start_pos_int=\count157
+\l__regex_success_pos_int=\count158
+\l__regex_curr_char_int=\count159
+\l__regex_curr_catcode_int=\count160
+\l__regex_last_char_int=\count161
+\l__regex_c

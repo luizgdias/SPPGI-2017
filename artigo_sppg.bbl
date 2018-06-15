@@ -1,0 +1,76 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.5 }
+
+\bibitem[Aussenac-Gilles e S\"{o}rgel
+  2005]{Aussenac-Gilles:2005:TAO:1412350.1412354}
+\abntrefinfo{Aussenac-Gilles e S\"{o}rgel}{AUSSENAC-GILLES; S\"{o}RGEL}{2005}
+{AUSSENAC-GILLES, Nathalie; S\"{o}RGEL, Dagobert. Text analysis for ontology
+  and terminology engineering.
+\emph{Appl. Ontol.}, IOS Press, Amsterdam, The Netherlands, The Netherlands,
+  v.~1, n.~1, p. 35--46, jan. 2005.
+ISSN 1570-5838.
+Dispon{\'\i}vel em: \url{http://dl.acm.org/citation.cfm?id=1412350.1412354}.}
+
+\bibitem[Brachman e Levesque 2004]{brachman2004knowledge}
+\abntrefinfo{Brachman e Levesque}{BRACHMAN; LEVESQUE}{2004}
+{BRACHMAN, Ronald~J; LEVESQUE, Hector~Joseph. \emph{Knowledge Representation
+  and Reasoning}. Massachusetts: Morgan Kaufmann, 2004.}
+
+\bibitem[Carbone e Gholston 2004]{Carbone2004}
+\abntrefinfo{Carbone e Gholston}{CARBONE; GHOLSTON}{2004}
+{CARBONE, Thomas~A.; GHOLSTON, Sampson. Project manager skill development: A
+  survey of programs and practitioners.
+\emph{Engineering Management Journal}, v.~16, n.~3, p. 10--16, 2004.}
+
+\bibitem[Colucci et al. 2003]{Colucci:jucs_9_12:a_formal_approach_to}
+\abntrefinfo{Colucci et al.}{COLUCCI et al.}{2003}
+{COLUCCI, Simona et al. A formal approach to ontology-based semantic match of
+  skills descriptions.
+\emph{Journal of Universal Computer Science}, v.~9, n.~12, p. 1437--1454, dec
+  2003.
+\url{http://www.jucs.org/jucs_9_12/a_formal_approach_to}.}
+
+\bibitem[Dean, Mike e Schreiber 2004]{Dean}
+\abntrefinfo{Dean, Mike e Schreiber}{DEAN; MIKE; SCHREIBER}{2004}
+{DEAN; MIKE; SCHREIBER, Guus. \emph{OWL Web Ontology Language Reference}. 2004.
+Dispon{\'\i}vel em: \url{http://www.w3.org/TR/owl-ref/}.}
+
+\bibitem[Gruber et al. 1995]{Gruber}
+\abntrefinfo{Gruber et al.}{GRUBER et al.}{1995}
+{GRUBER, T.R. et al. Toward principles for the design of ontologies used for
+  knowledge sharing.
+\emph{International Journal of Human Computer Studies}, Citeseer, v.~43, n.~5,
+  p. 907--928, 1995.}
+
+\bibitem[Johnston e Jeffryes 2013]{johnston2013}
+\abntrefinfo{Johnston e Jeffryes}{JOHNSTON; JEFFRYES}{2013}
+{JOHNSTON, Lisa; JEFFRYES, Jon. Data management skills needed by structural
+  engineering students: A case study at the university of minnesota.
+\emph{Journal of Professional Issues in Engineering Education and Practice},
+  2013.}
+
+\bibitem[Pant e Baroudi 2008]{pant2008}
+\abntrefinfo{Pant e Baroudi}{PANT; BAROUDI}{2008}
+{PANT, Ira; BAROUDI, Bassam. Project management education: The human skills
+  imperative.
+\emph{International journal of project management}, v.~26, n.~2, p. 124--128,
+  2008.}
+
+\bibitem[Silva et al. 2007]{AOW07}
+\abntrefinfo{Silva et al.}{SILVA et al.}{2007}
+{SILVA, Geiza et al. Dealing with the formal analysis of information security
+  policies through ontologies: A case study. In:  MEYER, Thomas; NAYAK, Abhaya
+  (Ed.). \emph{3rd Australasian Ontology Workshop. (AOW2007)}. Queensland,
+  Australia: ACS, 2007. v.~85.}
+
+\bibitem[Wu, Chen e Lin 2004]{wu2004}
+\abntrefinfo{Wu, Chen e Lin}{WU; CHEN; LIN}{2004}
+{WU, Jen-Her; CHEN, Yi-Cheng; LIN, Hsin-Hui. Developing a set of management
+  needs for is managers: a study of necessary managerial activities and skills.
+\emph{Information \& Management}, v.~41, n.~4, 2004.}
+
+\end{thebibliography}
